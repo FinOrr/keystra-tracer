@@ -2,7 +2,7 @@
 
 A lightweight requirements tracing tool. Track intents, requirements, verifications, and runs. See coverage at a glance through a live trace matrix.
 
-**Use the app at [?](https://?)**, no setup needed.
+**Use the app at [keystra-tracer.vercel.app](https://keystra-tracer.vercel.app/auth/signin)**, no setup needed.
 
 ---
 
